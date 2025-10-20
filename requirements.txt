@@ -1,12 +1,14 @@
 # Streamlit
-streamlit==1.50.0
+streamlit==1.39.0
 
-# TensorFlow (incluye Keras 3)
-tensorflow==2.20.0
+# TensorFlow CPU compatible con Python 3.10 y Streamlit Cloud
+tensorflow-cpu==2.12.0
 
-# Librerías de procesamiento de imágenes y datos
+# Librerías compatibles y livianas
+numpy==1.23.5
 opencv-python-headless==4.8.0.74
-numpy==1.26.5
 Pillow==10.1.0
 pandas==2.1.1
 matplotlib==3.8.1
+protobuf==3.20.*
+h5py==3.8.0
