@@ -1,0 +1,7 @@
+streamlit
+tensorflow==2.16.1
+opencv-python-headless
+pillow
+pandas
+matplotlib
+sqlite3-binary
