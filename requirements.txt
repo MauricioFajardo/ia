@@ -1,14 +1,10 @@
-# Streamlit
-streamlit==1.39.0
-
-# TensorFlow CPU compatible con Python 3.10 y Streamlit Cloud
-tensorflow-cpu==2.12.0
-
-# Librerías compatibles y livianas
-numpy==1.23.5
-opencv-python-headless==4.8.0.74
-Pillow==10.1.0
-pandas==2.1.1
-matplotlib==3.8.1
-protobuf==3.20.*
-h5py==3.8.0
+streamlit==1.50.0
+tensorflow==2.20.0
+keras==3.10.0
+numpy>=2.2.0
+pandas==2.3.3
+matplotlib==3.10.7
+opencv-python-headless==4.12.0.88
+protobuf==6.33.0
+requests==2.32.3
+altair==5.5.0
