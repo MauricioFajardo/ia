@@ -1,7 +1,8 @@
-streamlit
-tensorflow==2.16.1
+streamlit==1.50.0
+tensorflow==2.12.0
+keras==2.12.0
 opencv-python-headless
-pillow
+numpy
+Pillow
 pandas
 matplotlib
-sqlite3-binary
