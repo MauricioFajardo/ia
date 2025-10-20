@@ -1,8 +1,12 @@
+# Streamlit
 streamlit==1.50.0
+
+# TensorFlow (incluye Keras 3)
 tensorflow==2.20.0
-keras==3.10.0
-opencv-python-headless
-numpy
-Pillow
-pandas
-matplotlib
+
+# Librerías de procesamiento de imágenes y datos
+opencv-python-headless==4.8.0.74
+numpy==1.26.5
+Pillow==10.1.0
+pandas==2.1.1
+matplotlib==3.8.1
